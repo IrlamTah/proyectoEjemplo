@@ -1,4 +1,4 @@
-# H1 proyectoEjemplo
+# proyectoEjemplo
 
 
 ejemplo del uso de github mediante un proyecto
